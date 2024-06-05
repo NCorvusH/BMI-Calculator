@@ -1,16 +1,9 @@
-I'm here to provide insights into the development process of our BMI Calculator app in Java. Here's a breakdown of how I structured the project and achieved key objectives:
-
-<b>User Interaction:</b> Prioritizing a seamless user experience, I implemented prompts for users to input their weight and height.
-
-<b>BMI Calculation:</b> Precision was paramount. I utilised float data types and the math.pow function to ensure accurate BMI computations.
-
-<b>Weight Categorization:</b> To provide meaningful feedback, I categorized users based on their BMI, employing conditional statements to determine weight status.
-
-<b>In terms of project structure:</b>
+<h1>Project Description:</h1> The goal of this project is to develop a BMI Calculator in Java that allows users to enter their weight in kilograms and their height in meters, and automatically calculate their Body Mass Index.
+<br>
+<h1>Expected Deliverables:</h1>
 <ul>
-  <li>I organized the project within a package and imported necessary dependencies.</li>
-  <li>With the main method established, I instantiated a Scanner object for user input.</li>
-  <li>Utilizing println prompts, I guided users through the input process.</li>
-  <li>Maintaining clarity and efficiency, I used float data types for variables.</li>
-  <li>Lastly, I employed conditional statements to categorize BMI results.</li>
+<li>A functional Java application that allows users to enter their weight and height and calculate their BMI.</li>
+<li>Implementation of the BMI calculation logic according to established formulas.</li>
+<li>The user interface will be console-based, with data inputs and outputs.</li>
+<li>Clear documentation that explains how the application works and how to interpret the results of the BMI calculation.</li>
 </ul>
